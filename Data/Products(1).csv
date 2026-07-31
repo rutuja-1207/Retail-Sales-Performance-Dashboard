@@ -1,0 +1,32 @@
+Product_ID,Product_Name,Category,Sub_Category,Brand
+P001,Product 1,Furniture,Chairs,Brand 2
+P002,Product 2,Office Supplies,Binders,Brand 6
+P003,Product 3,Electronics,Phones,Brand 1
+P004,Product 4,Office Supplies,Paper,Brand 1
+P005,Product 5,Furniture,Chairs,Brand 5
+P006,Product 6,Electronics,Phones,Brand 5
+P007,Product 7,Electronics,Laptops,Brand 1
+P008,Product 8,Electronics,Phones,Brand 4
+P009,Product 9, electronics ,Binders,Brand 1
+P010,Product 10,Electronics,Laptops,
+P011,Product 11,Office Supplies,,Brand 4
+P012,Product 12,Electronics,Phones,Brand 5
+P013,Product 13,Electronics,Phones,Brand 2
+P014,Product 14,Office Supplies,Paper,Brand 1
+P015,Product 15,Office Supplies,Paper,Brand 5
+P016,Product 16,Office Supplies,Binders,Brand 1
+P017,Product 17,Electronics,Laptops,Brand 1
+P018,Product 18, electronics ,Paper,Brand 2
+P019,Product 19,Furniture,Chairs,Brand 4
+P020,Product 20,Electronics,Laptops,
+P021,Product 21,Electronics,Phones,Brand 5
+P022,Product 22,Furniture,,Brand 5
+P023,Product 23,Electronics,Laptops,Brand 1
+P024,Product 24,Office Supplies,Paper,Brand 5
+P025,Product 25,Electronics,Laptops,Brand 3
+P026,Product 26,Electronics,Phones,Brand 5
+P027,Product 27, electronics ,Phones,Brand 5
+P028,Product 28,Electronics,Phones,Brand 5
+P029,Product 29,Electronics,Laptops,Brand 4
+P030,Product 30,Office Supplies,Paper,
+P005,Product 5,Furniture,Chairs,Brand 5
